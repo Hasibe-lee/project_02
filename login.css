@@ -1,9 +1,9 @@
-body,html{
+body{
   margin: 0;
   padding: 0;
   background-color: pink;
 }
 
 .blue{
-  background-color: blue;
+  background-image: linear-gradient(to right,blue,red);
 }
