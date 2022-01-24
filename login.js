@@ -4,3 +4,4 @@ window.onload = function () {
     document.body.classList.toggle('blue');
   })
 }
+console.log('test');
